@@ -1,6 +1,6 @@
 {
-  "name": "@celebryts/react-autocomplete-tags",
-  "version": "1.0.0",
+  "name": "@talal7860/react-autocomplete-tags",
+  "version": "1.0.1",
   "description": "A React component that build a Autocomplete with tags - Built by Celebryts IT",
   "main": "index.js",
   "scripts": {
@@ -25,7 +25,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.20",
     "react": ">=15.5.0",
     "react-dom": ">=15.5.0"
   },
